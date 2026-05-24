@@ -1,5 +1,6 @@
 # Scalable Web Service on AWS
 
+Live Endpoint: https://d35pt64czmbpwt.cloudfront.net/
 ## Architecture diagram
 <img width="1653" height="429" alt="image" src="https://github.com/user-attachments/assets/5ab29382-1c15-4eb8-8c7d-796f0d4d1120" />
 
